@@ -1,0 +1,71 @@
+// Theme Color Define
+$primary-color: 	#46bdf4;
+$secondary-color:	#7a0fff;
+$secondary-alt-color:#8255fd;
+$primary-alt-color:	#2b56f5;
+$alternet-color:	#999;
+$default-color: 	#3c3c3c;
+
+$dark-bg:			#10122d;
+$dark-bg-alt:		#0b0c22;
+$dark-bg-darker:	#08091b;
+$light-bg:			#eff6ff;
+$light-bg-alt:		#fff;
+$light-bg-darker:	#e5f0ff;
+$pro-bg-alt:		#ebf3fc;
+$bg-trans:			transparent;
+
+$light-color:		#fff;
+$heading-color:		#333;
+$heading-azure:		#1641b5;
+$text-light:		#8284a5;
+$text-light-alt:	#a2b4d2;
+$text-azure:		#637097;
+$text-azure-alt:	#313c56;
+
+// AZURE Style @v1.1 .io-azure
+$azure-bg:			#0d42b2;
+$azure-bg-alt:		#1b30a4;
+$azure-bg-dark:		#15257b;
+$text-blue:			#7ab9ff;
+$text-blue-alt:		#16a4fd;
+
+$gradiant-one:		linear-gradient(to right, $primary-alt-color 0%, $primary-color 100%);
+$gradiant-two:		linear-gradient(to right, $primary-color 0%, $secondary-color 100%);
+
+$bg-primary:		$primary-color;
+$bg-secondary:		$secondary-color;
+$bg-alternet:		$alternet-color;
+
+$font-primary: 'Poppins', sans-serif;
+
+$font-size: 15px;
+$font-weight: 300;
+$font-bold: 600;
+$font-height: 1.86;
+
+$heading-color: #373e45;
+$heading-color-light: #28384c;
+$heading-color-alt: $primary-color;
+
+$nav-color: $default-color;
+$nav-color-over: $primary-color;
+$nav-bgcolor: tranparent;
+$nav-bgcolor-over: tranparent;
+$nav-font-weight: 700;
+$nav-font-size: 14px;
+
+$radius: 5px;
+$radius-btn: 4px;
+ 
+$space: 120px;
+$space-sm: $space*0.50;
+$space-md: $space*0.75;
+$space-lg: $space*1.50;
+
+$mgpd: 20px;
+$mgpd-xs: $mgpd/2;
+$mgpd-sm: $mgpd*0.75;
+$mgpd-md: $mgpd*1.5;
+$mgpd-lg: $mgpd*3;
+$mgpd-gap: $mgpd*2.25;

@@ -1441,7 +1441,7 @@ a:active {
   color: #16a1ff;
 }
 .io-jasmine .site-header.has-fixed .navbar { 
-  background: none;
+  background: rgba(255, 255, 255, 0.8);
   border: none;
 }
 .navbar:before {
